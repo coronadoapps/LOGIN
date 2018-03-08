@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="login">USUARIO:</string>
+    <string name="FORM">FORMULARIO</string>
+    <string name="password">CONTRASEÑA:</string>
+    <string name="rpassword">REPETIR CONTRASEÑA:</string>
+    <string name="email">CORREO:</string>
+    <string name="femenino">FEMENINO</string>
+    <string name="masculino">MASCULINO</string>
+    <string name="born">FECHA:</string>
+    <string name="ciudad">CIUDAD NACIMIENTO:</string>
+    <string name="Correr">CORRER</string>
+    <string name="Nadar">NADAR</string>
+    <string name="Bailar">BAILAR</string>
+    <string name="Cantar">CANTAR</string>
+    <string name="send">ENVIAR</string>
+    <string name="Viajar">VIAJAR</string>
+    <string name="Tv">TV</string>
+    <string name="Cine">CINE</string>
+    <string name="Leer">LEER</string>
+    <string name="Otros">OTROS</string>
+    <string name="consola">DATOS</string>
+    <string name="select">Ciudades</string>
+</resources>
